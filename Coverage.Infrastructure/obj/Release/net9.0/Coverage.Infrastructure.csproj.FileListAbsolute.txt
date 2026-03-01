@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\CoverageProject\Coverage.Infrastructure\bin\Release\net9.0\Coverage.Infrastructure.deps.json
+C:\Users\hp\source\repos\CoverageProject\Coverage.Infrastructure\bin\Release\net9.0\Coverage.Infrastructure.dll
+C:\Users\hp\source\repos\CoverageProject\Coverage.Infrastructure\bin\Release\net9.0\Coverage.Infrastructure.pdb
+C:\Users\hp\source\repos\CoverageProject\Coverage.Infrastructure\bin\Release\net9.0\Coverage.Domain.dll
+C:\Users\hp\source\repos\CoverageProject\Coverage.Infrastructure\bin\Release\net9.0\Coverage.Domain.pdb
+C:\Users\hp\source\repos\CoverageProject\Coverage.Infrastructure\obj\Release\net9.0\Coverage.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CoverageProject\Coverage.Infrastructure\obj\Release\net9.0\Coverage.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CoverageProject\Coverage.Infrastructure\obj\Release\net9.0\Coverage.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CoverageProject\Coverage.Infrastructure\obj\Release\net9.0\Coverage.Infrastructure.AssemblyInfo.cs
+C:\Users\hp\source\repos\CoverageProject\Coverage.Infrastructure\obj\Release\net9.0\Coverage.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CoverageProject\Coverage.Infrastructure\obj\Release\net9.0\Coverage.Infrastructure.sourcelink.json
+C:\Users\hp\source\repos\CoverageProject\Coverage.Infrastructure\obj\Release\net9.0\Coverage.FBEF8654.Up2Date
+C:\Users\hp\source\repos\CoverageProject\Coverage.Infrastructure\obj\Release\net9.0\Coverage.Infrastructure.dll
+C:\Users\hp\source\repos\CoverageProject\Coverage.Infrastructure\obj\Release\net9.0\refint\Coverage.Infrastructure.dll
+C:\Users\hp\source\repos\CoverageProject\Coverage.Infrastructure\obj\Release\net9.0\Coverage.Infrastructure.pdb
+C:\Users\hp\source\repos\CoverageProject\Coverage.Infrastructure\obj\Release\net9.0\ref\Coverage.Infrastructure.dll
