@@ -1,3 +1,4 @@
+[![CI](https://github.com/egoddd/CoverageProject/actions/workflows/ci.yml/badge.svg)](https://github.com/egoddd/CoverageProject/actions/workflows/ci.yml)
 # CoverageProject
 
 Enterprise-grade insurance platform engineered as a distributed systems training ground.
