@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\CoverageProject\Coverage.Domain\bin\Release\net9.0\Coverage.Domain.deps.json
+C:\Users\hp\source\repos\CoverageProject\Coverage.Domain\bin\Release\net9.0\Coverage.Domain.dll
+C:\Users\hp\source\repos\CoverageProject\Coverage.Domain\bin\Release\net9.0\Coverage.Domain.pdb
+C:\Users\hp\source\repos\CoverageProject\Coverage.Domain\obj\Release\net9.0\Coverage.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CoverageProject\Coverage.Domain\obj\Release\net9.0\Coverage.Domain.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CoverageProject\Coverage.Domain\obj\Release\net9.0\Coverage.Domain.AssemblyInfo.cs
+C:\Users\hp\source\repos\CoverageProject\Coverage.Domain\obj\Release\net9.0\Coverage.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CoverageProject\Coverage.Domain\obj\Release\net9.0\Coverage.Domain.sourcelink.json
+C:\Users\hp\source\repos\CoverageProject\Coverage.Domain\obj\Release\net9.0\Coverage.Domain.dll
+C:\Users\hp\source\repos\CoverageProject\Coverage.Domain\obj\Release\net9.0\refint\Coverage.Domain.dll
+C:\Users\hp\source\repos\CoverageProject\Coverage.Domain\obj\Release\net9.0\Coverage.Domain.pdb
+C:\Users\hp\source\repos\CoverageProject\Coverage.Domain\obj\Release\net9.0\ref\Coverage.Domain.dll
