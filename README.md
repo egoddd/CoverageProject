@@ -1,4 +1,6 @@
-[![CI](https://github.com/egoddd/CoverageProject/actions/workflows/ci.yml/badge.svg)](https://github.com/egoddd/CoverageProject/actions/workflows/ci.yml)
+![CI](https://github.com/egoddd/CoverageProject/actions/workflows/ci.yml/badge.svg)(https://github.com/egoddd/CoverageProject/actions/workflows/ci.yml)
+![License](https://img.shields.io/github/license/egoddd/CoverageProject)
+![Release](https://img.shields.io/github/v/release/egoddd/CoverageProject)
 # CoverageProject
 
 Enterprise-grade insurance platform engineered as a distributed systems training ground.
