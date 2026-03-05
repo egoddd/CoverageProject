@@ -134,7 +134,38 @@ CoverageProject is designed to evolve toward a distributed architecture capable 
 
 ## 🚀 How to Run
 
-```bash
+<bash>
 dotnet restore
 dotnet build
 dotnet run
+
+---
+
+# 📚 Repository Index
+
+This profile is organized around three engineering tracks.
+
+## Distributed Systems Engineering
+
+| Repository | Description |
+|------------|-------------|
+| [CoverageProject](https://github.com/egoddd/CoverageProject) | Clean Architecture insurance platform used as a distributed systems engineering lab |
+| Distributed Systems Playbook | Architecture notes, patterns, and system design studies |
+
+---
+
+## Financial / Quant Infrastructure
+
+| Repository | Description |
+|------------|-------------|
+| Quant Infrastructure Lab | Experiments in financial system infrastructure and event-driven workflows |
+| Market Data Systems | Exploration of financial data pipelines and processing |
+
+---
+
+## Performance Engineering (.NET)
+
+| Repository | Description |
+|------------|-------------|
+| DotNet Performance Lab | Experiments with concurrency, async systems, and performance optimization |
+| Systems Algorithms | Algorithms and data structures relevant to high-performance systems |
