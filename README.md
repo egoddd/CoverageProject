@@ -48,6 +48,66 @@ Separation of concerns is enforced.
 
 ---
 
+## 🏭 Production Architecture (Target)
+
+CoverageProject is designed to evolve toward a distributed architecture capable of supporting high-scale financial workflows.
+
+
+                         ┌──────────────────────────┐
+                         │        Clients           │
+                         │ Web / Mobile / Partners  │
+                         └─────────────┬────────────┘
+                                       │ HTTPS
+                                       v
+                         ┌──────────────────────────┐
+                         │        Coverage.API      │
+                         │ REST Endpoints           │
+                         │ Auth • Validation        │
+                         └─────────────┬────────────┘
+                                       │
+                                       v
+                         ┌──────────────────────────┐
+                         │   Coverage.Application   │
+                         │ Use Cases / Commands     │
+                         │ Business Workflows       │
+                         └─────────────┬────────────┘
+                                       │
+                                       v
+                         ┌──────────────────────────┐
+                         │     Coverage.Domain      │
+                         │ Entities / Rules         │
+                         │ Domain Events            │
+                         └─────────────┬────────────┘
+                                       │
+                                       v
+                         ┌──────────────────────────┐
+                         │  Coverage.Infrastructure │
+                         │ Repositories / EF Core   │
+                         │ External Services        │
+                         └─────────────┬────────────┘
+                                       │
+                                       v
+                         ┌──────────────────────────┐
+                         │       SQL Server         │
+                         │     Primary Storage      │
+                         └─────────────┬────────────┘
+                                       │
+                                       v
+                         ┌──────────────────────────┐
+                         │    Message Broker        │
+                         │   Async Event Pipeline   │
+                         │ (RabbitMQ / Kafka later) │
+                         └─────────────┬────────────┘
+                                       │
+                                       v
+                         ┌──────────────────────────┐
+                         │ Background Workers       │
+                         │ Event Processing         │
+                         │ Notifications / Jobs     │
+                         └──────────────────────────┘
+
+---
+
 ## 🧠 Engineering Focus
 
 - Clean Architecture
