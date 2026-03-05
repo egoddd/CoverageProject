@@ -28,6 +28,24 @@ This system follows strict Clean Architecture principles:
 
 Separation of concerns is enforced.
 
+          ┌───────────────────────┐
+          │        Coverage.API   │
+          │  Controllers / HTTP   │
+          └───────────▲───────────┘
+                      │
+          ┌───────────┴───────────┐
+          │   Coverage.Application│
+          │   Use Cases / Services│
+          └───────────▲───────────┘
+                      │
+          ┌───────────┴───────────┐
+          │      Coverage.Domain  │
+          │  Entities / Rules     │
+          └───────────────────────┘
+
+          Infrastructure implements
+          interfaces defined in Application
+
 ---
 
 ## 🧠 Engineering Focus
